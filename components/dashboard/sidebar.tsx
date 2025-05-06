@@ -21,7 +21,7 @@ const navItems = [
   { name: "Posts", href: "/dashboard/posts", icon: FileText },
   { name: "Categories", href: "/dashboard/categories", icon: FolderOpen },
   { name: "Media", href: "/dashboard/media", icon: ImageIcon },
-  { name: "Users", href: "/dashboard/users", icon: Users },
+  // { name: "Users", href: "/dashboard/users", icon: Users },
   { name: "Settings", href: "/dashboard/settings", icon: Settings },
 ];
 
